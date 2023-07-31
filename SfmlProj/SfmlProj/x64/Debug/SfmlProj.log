@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\IGOR\source\repos\SfmlProj\SfmlProj\spriteManager.h(56,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\IGOR\source\repos\SfmlProj\SfmlProj\spriteManager.h(56,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  spriteManager.cpp
+C:\Users\IGOR\source\repos\SfmlProj\SfmlProj\spriteManager.h(56,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\IGOR\source\repos\SfmlProj\SfmlProj\spriteManager.h(56,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  SfmlProj.vcxproj -> C:\Users\IGOR\source\repos\SfmlProj\x64\Debug\SfmlProj.exe
